@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.e0d5b8da.css",
-    "main.js": "/static/js/main.90681e80.js",
-    "static/media/programma.pdf": "/static/media/programma.0f521d13b746d6557f97.pdf",
-    "static/media/home.jpg": "/static/media/home.5a761f7b87a4aa9e0408.jpg",
-    "static/media/mensen.png": "/static/media/mensen.4b5f2ef7be7be6dfcff1.png",
-    "static/media/cees.jpeg": "/static/media/cees.75a70899a800298354d6.jpeg",
-    "static/media/sandro.jpeg": "/static/media/sandro.d8155a472d98d02daf1f.jpeg",
-    "static/media/img-3.jpeg": "/static/media/img-3.4db84d35f2d5abc0d762.jpeg",
-    "static/media/img-2.jpeg": "/static/media/img-2.4353876e3c5dd1e78cf7.jpeg",
-    "static/media/img-1.jpeg": "/static/media/img-1.12b59b4da3f9b03738b6.jpeg",
-    "static/media/standpunten.jpeg": "/static/media/standpunten.12b59b4da3f9b03738b6.jpeg",
-    "static/media/logo.png": "/static/media/logo.a92c719e02b70623c468.png",
-    "static/media/bart.jpeg": "/static/media/bart.87eb9bb1ca4f220e2a6d.jpeg",
-    "index.html": "/index.html",
-    "main.e0d5b8da.css.map": "/static/css/main.e0d5b8da.css.map",
-    "main.90681e80.js.map": "/static/js/main.90681e80.js.map"
+    "main.css": "/pvda-gl/static/css/main.e0d5b8da.css",
+    "main.js": "/pvda-gl/static/js/main.c258f912.js",
+    "static/media/programma.pdf": "/pvda-gl/static/media/programma.0f521d13b746d6557f97.pdf",
+    "static/media/home.jpg": "/pvda-gl/static/media/home.5a761f7b87a4aa9e0408.jpg",
+    "static/media/mensen.png": "/pvda-gl/static/media/mensen.4b5f2ef7be7be6dfcff1.png",
+    "static/media/cees.jpeg": "/pvda-gl/static/media/cees.75a70899a800298354d6.jpeg",
+    "static/media/sandro.jpeg": "/pvda-gl/static/media/sandro.d8155a472d98d02daf1f.jpeg",
+    "static/media/img-3.jpeg": "/pvda-gl/static/media/img-3.4db84d35f2d5abc0d762.jpeg",
+    "static/media/img-2.jpeg": "/pvda-gl/static/media/img-2.4353876e3c5dd1e78cf7.jpeg",
+    "static/media/img-1.jpeg": "/pvda-gl/static/media/img-1.12b59b4da3f9b03738b6.jpeg",
+    "static/media/standpunten.jpeg": "/pvda-gl/static/media/standpunten.12b59b4da3f9b03738b6.jpeg",
+    "static/media/logo.png": "/pvda-gl/static/media/logo.a92c719e02b70623c468.png",
+    "static/media/bart.jpeg": "/pvda-gl/static/media/bart.87eb9bb1ca4f220e2a6d.jpeg",
+    "index.html": "/pvda-gl/index.html",
+    "main.e0d5b8da.css.map": "/pvda-gl/static/css/main.e0d5b8da.css.map",
+    "main.c258f912.js.map": "/pvda-gl/static/js/main.c258f912.js.map"
   },
   "entrypoints": [
     "static/css/main.e0d5b8da.css",
-    "static/js/main.90681e80.js"
+    "static/js/main.c258f912.js"
   ]
 }
